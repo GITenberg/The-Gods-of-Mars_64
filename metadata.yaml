@@ -1,0 +1,30 @@
+_repo: The-Gods-of-Mars_64
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Burroughs, Edgar Rice
+    birthdate: 1875
+    deathdate: 1950
+    gutenberg_agent_id: '48'
+    url: http://www.gutenberg.org/2009/agents/48
+    wikipedia: http://en.wikipedia.org/wiki/Edgar_Rice_Burroughs
+description: Barsoom series, volume 2
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '1993-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Carter, John (Fictitious character) -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Life on other planets -- Fiction'
+- !lcsh 'Mars (Planet) -- Fiction'
+- !lcsh 'Dejah Thoris (Fictitious character) -- Fiction'
+- !lcsh 'Science fiction'
+- GITenberg
+title: The Gods of Mars
+url: http://www.gutenberg.org/ebooks/64
